@@ -8,6 +8,7 @@ public class TwoPointersINput
         int arr[]  = new int[n];
         for(int i =0; i<n; i++)
         {
+            
             System.out.println("Enter Array: ");
             arr[i] = sc.nextInt();
         }
