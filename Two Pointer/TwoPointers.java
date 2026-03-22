@@ -15,6 +15,7 @@ public class TwoPointers
             }
             else  if(sum<target)
             {
+                
                 left++;
             }
             else
